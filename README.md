@@ -7,8 +7,7 @@
        <h6>..</h6> 
     </td>
     <td valign="top">
-      <h3>My stack: </h3>
-      
+      <h3>My stack: </h3>      
       </td>
      <td valign="top">
       <h3>New repositories: </h3>

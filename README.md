@@ -11,7 +11,6 @@
       </td>
      <td valign="top">
       <h3>New repositories: </h3>
-          
         </td>
   </tr>
 </table>

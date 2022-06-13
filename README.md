@@ -1,3 +1,3 @@
-<h1>God dag. I'm Kirill & I ❤️ code.</h1>
-And I develop Games.
+<h1>AGJ here</h1>
+<h2>And I develop Games.</h2>
 

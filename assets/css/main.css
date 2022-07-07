@@ -3762,12 +3762,14 @@ input, select, textarea {
 		width: calc(100% - 4rem);
 		max-width: 72rem;
 		z-index: 2;
+		/* scroll-snap-align: start; */
 	}
 
 		#main > * {
 			padding: 4rem 4rem 2rem 4rem ;
 			border-top: solid 2px #eeeeee;
 			margin: 0;
+		
 		}
 
 			#main > *:first-child {
@@ -3779,7 +3781,7 @@ input, select, textarea {
 		}
 
 		#main > .post {
-			padding: 8rem 8rem 6rem 8rem ;
+			padding: 8rem 8rem 6rem 8rem ;			
 		}
 
 			#main > .post header.major > .date {
